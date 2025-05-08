@@ -1,0 +1,220 @@
+1282, Muiriel is 20 now.
+1283, The password is "Muiriel".
+1288, I just don't know what to say.
+1291, Is it a recent picture?
+1292, I don't know if I have the time.
+1294, Education in this world disappoints me.
+1299, I make €100 a day.
+1301, It's because you don't want to be alone.
+1312, I'm going to go.
+1320, It is unfortunately true.
+1326, Are you sure?
+1361, When I woke up, I was sad.
+1367, Every person who is alone is alone because they are afraid of others.
+1397, I won't ask you anything else today.
+1399, Even though he apologized, I'm still furious.
+1421, No one will know.
+1431, Where is the problem?
+1434, I love you.
+1437, Congratulations!
+1482, I don't speak Japanese.
+1712, I have a headache.
+1723, Merry Christmas!
+38104, Where do you want to go?
+68948, Are you busy?
+72985, Two, four, six, etc. are even numbers.
+268032, The boy was sold into slavery.
+3114635, Man is a rational animal.
+287194, I think his suggestion is worth considering.
+287454, His room is always tidy.
+296680, He broke his left arm.
+297579, He came to see me.
+315708, She seemed to be very surprised.
+332138, What is the date today?
+338182, All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+367935, I am a vegetarian.
+373216, Really?
+374827, Thank you!
+386704, I am a man.
+398746, Hello, world!
+416367, Where are you going?
+433504, Excuse me.
+472089, I go to school.
+499689, Good afternoon.
+515085, What is love?
+516622, This book is mine.
+798246, What is the capital of Haiti?
+855284, Good day!
+891930, I want to die with Getter Jaani.
+961717, I can't drink coffee.
+1399479, Burj Khalifa is currently the tallest skyscraper in the world.
+1487698, I made supper.
+266790, Get out!
+1582020, I do not fear death.
+2163151, The book is on the table.
+2346862, This is my computer.
+2412739, I have two cats.
+454514, I think, therefore I am.
+1194034, I'm not a doctor.
+256575, I am an office worker.
+3007688, I'm using the computer.
+18370, No pain, no gain.
+3663249, There are islands in the sea.
+18108, Tie your shoelaces.
+3935488, Greece is an old country.
+25095, Can I help you?
+357219, Keep the change.
+54871, Whose book is this?
+1849392, Be careful.
+3982160, Do you love your mother?
+2648206, Why are you lying?
+430893, I use Firefox.
+30054, Sweet dreams!
+574624, I am well.
+433492, Of course.
+315604, She has small feet.
+1042227, Stop it!
+376611, I don't understand.
+38387, I'm sorry.
+275979, I'm very sorry.
+2405872, I said I'm sorry.
+269634, May God bless you.
+20097, You are beautiful.
+54971, Can I see this one?
+18432, Is the bank open?
+48623, Where is the bank?
+35366, I missed the bus.
+1205289, Welcome to Tatoeba!
+2111913, Don't lie.
+477061, No.
+43550, The medicine tastes bitter.
+428402, What time is it?
+138919, Welcome.
+448963, It's snowing.
+30545, Why not?
+426950, Good night!
+516745, Goodbye!
+33924, Betty killed her mother.
+3841987, I speak five languages.
+358152, Nobody is perfect.
+2345, Like father, like son.
+270802, Water reflects light.
+252846, I cannot answer your question.
+462430, Shut up!
+2083030, Who?
+30397, Louder.
+42367, That's my dictionary.
+72808, I'd like to reserve a table for two.
+1322, Most people think I'm crazy.
+52027, Wow!
+433510, Wonderful!
+433511, Fantastic!
+433512, Awesome!
+538123, Hi.
+1913088, Listen.
+2764108, Smile.
+19733, Please hurry.
+20364, I fainted.
+30124, Work slowly.
+30399, Louder, please.
+40434, Who cares?
+40632, Stop smoking.
+250135, Follow me.
+2412, They quarreled.
+20776, I try.
+29664, Please relax.
+29922, Listen carefully.
+53465, Study hard.
+1329, Hurry up.
+18631, Money talks.
+24958, Why me?
+31723, Try again.
+35175, Speak up!
+37029, Tom frowned.
+40051, Step aside.
+278174, Birds sing.
+278213, Birds fly.
+319990, I know.
+320484, Got it!
+348091, Come in.
+433457, God exists.
+433468, I understand.
+433518, Go away!
+433729, Once again.
+433754, Follow him.
+433849, Speak clearly.
+434704, Excuse me?
+1021038, Good job!
+1126684, Help me!
+1876041, Thank you.
+1913090, Tell me.
+2111796, I see.
+1045519, We have a white cat.
+24867, What for?
+435575, Calm down.
+1490941, Be yourself.
+1841180, Release him.
+1841559, We succeeded.
+361350, Happy New Year!
+70623, What is your name?
+373320, How are you?
+42403, It happened prior to my arrival.
+733380, I can't answer your question.
+1173265, My name is Tom.
+2649208, My name's Tom.
+8873732, It's unfortunately true.
+6873236, I'm an office worker.
+647456, Bye!
+1858850, Hello.
+54331, Ladies first.
+240217, Attention please!
+263886, Time flies.
+273489, Abandon ship!
+280203, Hold it!
+281018, Meat, please.
+282197, Years passed.
+285184, Grab him.
+628230, We agree.
+301849, He often comes late.
+277046, Knowledge is power.
+1640955, The picture is in black and white.
+294043, He speaks English.
+26275, English has become an international language.
+2840524, I've told you a million times not to exaggerate.
+296990, He left three days ago.
+276188, Who buried the gold bars here?
+257721, I went there yesterday.
+1877594, Everyone, say cheese.
+1373, How long did you stay?
+55529, This is a very old book.
+1505462, I hate working.
+258458, I'm writing a letter.
+57962, What does that word mean?
+434458, Come with me.
+2112, We made pancakes for breakfast.
+72588, April is the fourth month of the year.
+61693, Let's sit here on the grass.
+309976, She tried.
+313193, She cried.
+323576, Wood burns.
+60560, This program cannot be run in DOS mode.
+1427, No, he's not my new boyfriend.
+36513, Some people are difficult to please.
+246359, Dead?
+267675, Flour is made from wheat.
+257272, I'm fine.
+254852, I forgot it.
+961147, I want to know.
+1389751, I need an interpreter.
+272360, The baby is crying.
+2319, I don't know him.
+506948, Do you smoke?
+466624, What's your phone number?
+5998346, This is a war crime.
+450028, Let's go by bus.
+329713, Good morning!
+61583, Let's take a 10-minute break.
+11114181, My name is Mary.
+17735, I need you.
+403068, You're welcome.
+1230521, Long time no see!
